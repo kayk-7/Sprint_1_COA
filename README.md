@@ -15,6 +15,7 @@ Kayky Araujo Silva - RM569535
 
 Kelly Stephanie Mendoza - RM 569044
 
+
 Problema e Justificativa: Os eletropostos utilizam software de alto nível e hardware genérico para tarefas simples como autenticação do usuário, leitura de sensores e controle de carga, gerando consumo desnecessário de energia e desperdício de ciclos de CPU.
 
 Solução: Desenvolver um módulo de controle em linguagem Assembly para rodar em microcontroladores de baixo consumo.
