@@ -18,6 +18,7 @@
 Código utilizado: 
 
 
+
 ; ===================================================== ; EV CHALLENGE 2026 ; Controle otimizado para eletroposto ; Assembly x86 NASM ; =====================================================
 
 section .data
