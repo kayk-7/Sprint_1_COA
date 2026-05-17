@@ -1,19 +1,19 @@
 # Sprint 1 - Otimização de sistema nos eletropostos
 
 
-André Santos de Azevedo - RM572236
+**André Santos de Azevedo - RM572236**
 
-Bruno Menezes Monegatto -  RM570311
+**Bruno Menezes Monegatto -  RM570311**
 
-Fabiana Yumi Rodrigues Nakagawa - RM571249
+**Fabiana Yumi Rodrigues Nakagawa - RM571249**
 
-Iago Neiva Gorrão - RM 570234
+**Iago Neiva Gorrão - RM 570234**
 
-João Pedro Amorim Albuquerque - RM 573342
+**João Pedro Amorim Albuquerque - RM 573342**
 
-Kayky Araujo Silva - RM569535
+**Kayky Araujo Silva - RM569535**
 
-Kelly Stephanie Mendoza - RM 569044
+**Kelly Stephanie Mendoza - RM 569044**
 
 
 Problema e Justificativa: Os eletropostos utilizam software de alto nível e hardware genérico para tarefas simples como autenticação do usuário, leitura de sensores e controle de carga, gerando consumo desnecessário de energia e desperdício de ciclos de CPU.
